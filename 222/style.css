@@ -1,0 +1,116 @@
+.fonts {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.padding {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: white;
+}
+
+.header {
+    padding: 10px;
+    padding-left: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+    list-style: none;
+}
+
+aside {
+    display: block;
+    float: left;
+    margin-left: 50px;
+}
+
+.sect1 {
+    display: block;
+    float: right;
+    margin-right: 0px;
+    margin-top: 0px;
+    background-color: black;
+    color: white;
+    padding: 0px 40px 50px 0px;
+}
+
+.sect {
+    display: block;
+    float: right;
+    margin-right: 0px;
+    margin-top: 0px;
+    background-color: black;
+    color: white;
+    padding: 20px 20px 10px 20px;
+}
+
+.left {
+    float: left;
+    list-style: none;
+    padding-left: 8px;
+}
+
+.left1 {
+    float: left;
+    list-style: none;
+    padding-left: 0px;
+}
+
+a:hover {
+    color: gold;
+  }
+
+
+.social {
+    width: 30px; 
+    border-radius:50px;
+}
+
+.margin-top-bottom {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+body.margin {
+    margin: 0px;
+    background-color: gray;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    padding-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table, th, td {
+    border: 1px solid ;
+    border-color: black;
+}
+
+table {
+    margin-top: 15px;
+}
+
+th, td {
+    padding: 10px 150px 10px 150px;
+}
+
+.hobbies {
+    width: 250px; 
+    border-radius: 300px;
+    padding: 20px 20px 20px 12px;
+}
+
+.board-li {
+    border: 2px solid;
+    border-color: black;
+}
+
+.center {
+    text-align: center;
+}
